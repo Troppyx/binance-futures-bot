@@ -33,6 +33,21 @@ BTC/USDT  4H = LONG  |  24H = NEUTRAL
 Strength ≈ 37.5  |  Funding = -0.0012%
 Confirmations: MACD > 0, RSI > 50
 
+### 📷 Example Screenshots
+
+**1. Console output with trading signal:**  
+When the bot runs, it prints real-time signals based on EMA200 + RSI + ADX strategy.  
+
+![Console Output](output.png)
+
+---
+
+**2. Telegram notification:**  
+Signals can also be sent directly to a Telegram chat using the integrated bot.  
+
+![Telegram Signal](telegram.png)
+
+
 🚀 How to Run
 git clone https://github.com/yourusername/binance-futures-bot.git
 cd binance-futures-bot
