@@ -49,7 +49,7 @@ Signals can also be sent directly to a Telegram chat using the integrated bot.
 
 
 🚀 How to Run
-git clone https://github.com/yourusername/binance-futures-bot.git
+git clone https://github.com/Troppyx/binance-futures-bot.git
 cd binance-futures-bot
 pip install -r requirements.txt
 python bot.py
