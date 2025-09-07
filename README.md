@@ -52,4 +52,4 @@ Signals can also be sent directly to a Telegram chat using the integrated bot.
 git clone https://github.com/Troppyx/binance-futures-bot.git
 cd binance-futures-bot
 pip install -r requirements.txt
-python bot.py
+python bot9.py
